@@ -1,4 +1,4 @@
-# FlareSolverr
+# FlareSolverr v1
 
 [![Latest release](https://img.shields.io/github/v/release/FlareSolverr/FlareSolverr)](https://github.com/FlareSolverr/FlareSolverr/releases)
 [![Docker Pulls](https://img.shields.io/docker/pulls/flaresolverr/flaresolverr)](https://hub.docker.com/r/flaresolverr/flaresolverr/)
@@ -7,6 +7,8 @@
 [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X5NJLLX5GLTV6&source=url)
 [![Donate Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg)](https://www.buymeacoffee.com/ngosang)
 [![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-orange.svg)](https://en.cryptobadges.io/donate/13Hcv77AdnFWEUZ9qUpoPBttQsUT7q9TTh)
+
+⚠ This repository contains the code of FlareSolverr v1. For the latest release check [https://github.com/FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr). This repository is not maintained.
 
 FlareSolverr is a proxy server to bypass Cloudflare protection.
 
